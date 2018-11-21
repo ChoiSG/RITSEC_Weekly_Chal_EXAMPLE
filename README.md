@@ -8,7 +8,7 @@ Tech Lead and Jr. Tech Lead (me) make 4~5 challenges(binary/virtual machine) eve
 This provides students an experience to learn hands-on by solving these challenges.
 
 # For an example, Week 8 - Penetration Testing
-For Week 8, we learned about penetration testing. Tech Lead and I thought it would be nice to create a intentially vulnerable Virtual Machine to perform a mock-penetration testing on. We also provided a report template for students to actually write a report and send it to us. 
+For Week 8, we learned about penetration testing. Tech Lead and I thought it would be nice to create a intentionally vulnerable Virtual Machine to perform a mock-penetration testing on. We also provided a report template for students to actually write a report and send it to us. 
 
 # And Many more... 
 RITSEC does not publicly post our challenges on the internet, as it hinders future Tech Lead and Jr. Tech Lead. Also, some members might google their answer, which is something we are not looking for. 
